@@ -2,6 +2,8 @@ minecraft script
 ================
 minecraftのサーバの実行やバックアップを行うスクリプト郡
 
+test
+
 # Usage
 1. copy minecraft.conf.default to minecraft.conf
    ```
